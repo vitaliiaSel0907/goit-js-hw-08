@@ -2,8 +2,8 @@
 .gallery {
   display: flex;          
   flex-wrap: wrap;       
-  gap: 24px;              /* відстань між картками */
-  list-style: none;       /* прибираємо маркери списку */
+  gap: 24px;              
+  list-style: none;       
   padding: 0;
   margin: 0;
 }
